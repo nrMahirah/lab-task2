@@ -1,0 +1,23 @@
+C:\Users\Aira\AppData\Local\Temporary Projects\LabTask2\bin\Debug\LabTask2.exe.config
+C:\Users\Aira\AppData\Local\Temporary Projects\LabTask2\obj\Debug\LabTask2.vbprojResolveAssemblyReference.cache
+C:\Users\Aira\AppData\Local\Temporary Projects\LabTask2\obj\Debug\LabTask2.Login.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\LabTask2\obj\Debug\LabTask2.Form2.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\LabTask2\obj\Debug\LabTask2.Form3.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\LabTask2\obj\Debug\LabTask2.FrmSplash.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\LabTask2\obj\Debug\LabTask2.Resources.resources
+C:\Users\Aira\AppData\Local\Temporary Projects\LabTask2\obj\Debug\LabTask2.vbproj.GenerateResource.Cache
+C:\Users\Aira\AppData\Local\Temporary Projects\LabTask2\obj\Debug\LabTask2.xml
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LabTask2.exe.config
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.xml
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.vbprojResolveAssemblyReference.cache
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.Login.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.HomeScr.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.Form3.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.FrmSplash.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.Resources.resources
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.vbproj.GenerateResource.Cache
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LabTask2.exe
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LabTask2.pdb
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\bin\Debug\LabTask2.xml
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.exe
+C:\Users\Aira\Documents\Visual Studio 2015\Projects\LabTask2\LabTask2\obj\Debug\LabTask2.pdb

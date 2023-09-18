@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LabTask2", "LabTask2\LabTask2.vbproj", "{0F323425-B107-4B76-9293-3D08AF237540}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallerLabTask2", "InstallerLabTask2\InstallerLabTask2.vdproj", "{36D2414D-5A69-4AD1-8EDB-B54E4EC8E71A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F323425-B107-4B76-9293-3D08AF237540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F323425-B107-4B76-9293-3D08AF237540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F323425-B107-4B76-9293-3D08AF237540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F323425-B107-4B76-9293-3D08AF237540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D2414D-5A69-4AD1-8EDB-B54E4EC8E71A}.Debug|Any CPU.ActiveCfg = Debug
+		{36D2414D-5A69-4AD1-8EDB-B54E4EC8E71A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
